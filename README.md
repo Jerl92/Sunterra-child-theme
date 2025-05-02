@@ -1,2 +1,2 @@
 # Sunterra-child-theme
-supportdesk-child-theme for the frok of nanosupport for SunterraPC
+supportdesk-child-theme for the fork of nanosupport for SunterraPC
